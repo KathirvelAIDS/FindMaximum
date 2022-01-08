@@ -66,7 +66,7 @@ def max_marks(marks):
 
 
 ## Output:
-![output]()
+![output](https://github.com/vijay21500269/FindMaximum/blob/main/Screenshot%20(26).png)
 ![output]()
 ![output]()
 
