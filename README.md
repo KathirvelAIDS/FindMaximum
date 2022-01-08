@@ -66,9 +66,9 @@ def max_marks(marks):
 
 
 ## Output:
-![output](https://github.com/vijay21500269/FindMaximum/blob/main/Screenshot%20(26).png)
-![output]()
-![output]()
+![output1](https://github.com/vijay21500269/FindMaximum/blob/main/Screenshot%20(26).png)
+![output2](https://github.com/vijay21500269/FindMaximum/blob/main/Screenshot%20(27).png)
+![output3]()
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
