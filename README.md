@@ -10,8 +10,23 @@ To write a program to find the maximum of a list of numbers.
 3.	Return the maximum value
 ## Program:
 
+
 i)	# To find the maximum of marks using the list method sort.
 ```Python
+~~~
+''' 
+Program to mark the maximum of marks using the list method sort
+Developed by:R.Vijay
+RegisterNumber: 21500269
+'''
+def max_marks(list1):
+    # write your code here
+    max1=list1[0]
+    for i in list1:
+        if i>max1:
+            max1=i
+    return max1
+ ~~~
 
 
 
